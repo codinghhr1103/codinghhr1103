@@ -10,7 +10,7 @@ I work at the intersection of **statistical machine learning** and **secure dist
 
 - 🎓 **M.S.** in Computer Software and Theory, **Beijing Normal University** (admitted via recommended admission)
 - 🌏 **B.S.** in Computer Science, **Hunan Normal University**; one academic year as a visiting student at **Saint Joseph's University**, USA
-- 🏦 Currently at **Ping An Bank, Head Office — Financial Technology Department**
+- 🔬 Currently at **Genoria AI** — researching **AI for Bio**
 
 ---
 
